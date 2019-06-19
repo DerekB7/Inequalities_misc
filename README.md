@@ -1,1 +1,1 @@
-# Inequalities_misc
+This folder contains notes on various inequalities.  The vast majority of the items in here are directly related to Steele's 'Cauchy-Schwarz Masterclass' though other items, e.g. related to information theory, have been included as well.
